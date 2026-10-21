@@ -11,72 +11,72 @@
       "glyph": "chassis",
       "label": "Chassis",
       "role": "structure",
-      "x": 0.12,
-      "y": 0.32
+      "x": 0.14,
+      "y": 0.24
     },
     {
       "id": "n2",
       "glyph": "sensor",
       "label": "Sensors",
       "role": "sense",
-      "x": 0.31,
-      "y": 0.32
+      "x": 0.5,
+      "y": 0.24
     },
     {
       "id": "n3",
       "glyph": "lidar",
       "label": "Scanner coverage",
       "role": "path",
-      "x": 0.5,
-      "y": 0.32
+      "x": 0.86,
+      "y": 0.24
     },
     {
       "id": "n4",
       "glyph": "axle",
       "label": "Differential drive",
       "role": "path",
-      "x": 0.69,
-      "y": 0.32
+      "x": 0.14,
+      "y": 0.48
     },
     {
       "id": "n5",
       "glyph": "link",
       "label": "Suspension",
       "role": "path",
-      "x": 0.88,
-      "y": 0.32
+      "x": 0.5,
+      "y": 0.48
     },
     {
       "id": "n6",
       "glyph": "sensor",
       "label": "Fuse optional floor odometry",
       "role": "path",
-      "x": 0.2,
-      "y": 0.68
+      "x": 0.86,
+      "y": 0.48
     },
     {
       "id": "n7",
       "glyph": "sensor",
       "label": "Other sensors",
       "role": "sense",
-      "x": 0.413,
-      "y": 0.68
+      "x": 0.14,
+      "y": 0.74
     },
     {
       "id": "n8",
       "glyph": "doc",
       "label": "Navigation",
       "role": "path",
-      "x": 0.627,
-      "y": 0.68
+      "x": 0.5,
+      "y": 0.74
     },
     {
       "id": "n9",
       "glyph": "link",
       "label": "Lifting",
       "role": "path",
-      "x": 0.84,
-      "y": 0.68
+      "x": 0.86,
+      "y": 0.74
     }
   ],
   "edges": [
